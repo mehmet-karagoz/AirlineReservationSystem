@@ -1,5 +1,5 @@
 # AIRLINE RESERVATION SYSTEM
-> This program is an application to buy airline tickets from Turkish Airline.
+> This program is an application to buy flight tickets from Turkish Airline.
 
 [![Java Version][java-image]][java-url]
 [![Jdk Version][jdk-image]][jdk-url]
